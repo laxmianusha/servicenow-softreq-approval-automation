@@ -21,7 +21,7 @@ ServiceNow (Zurich release, PDI) — Service Catalog, Variable Sets,
 Catalog UI Policy, Flow Designer, Notifications
 
 ## Screenshots
-
+https://github.com/laxmianusha/servicenow-softreq-approval-automation/tree/main/screenshots
 
 ## Update Set
 Exported update set available at /update-set for import into any
